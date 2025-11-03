@@ -20,6 +20,14 @@ Adding a login system to save your tasks across the cloud.
 
 Making it so the Web App tasks syncs across your network (Maybe).
 
+## GitHub Pages Setup 🌐
+To enable GitHub Pages for this repository:
+1. Go to your repository Settings
+2. Click on "Pages" in the left sidebar
+3. Under "Source", select the branch you want to use (usually `main` or `master`)
+4. Click Save
+5. Your site will be published at `https://glimmercharger.github.io/My-To-Do-List/`
+
 ## Thanks for reading,
 ## Will K 
 ## #SlayingEveryday💅 #BeYou 
