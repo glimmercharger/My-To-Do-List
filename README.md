@@ -1,6 +1,8 @@
 ## My To Do List - Hack Club - Summer of code project.
 ## Hiya ✌
-I made a To do list that you can run from your browser to your phone just download the files off GitHub or go to: [To-do-list-Summerofcode.tiinyhost.com](https://to-do-listsummerofmakingcode.tiiny.site)
+I made a To do list that you can run from your browser to your phone just download the files off GitHub or visit the live site at: [glimmercharger.github.io/My-To-Do-List](https://glimmercharger.github.io/My-To-Do-List/)
+
+You can also access it here: [To-do-list-Summerofcode.tiinyhost.com](https://to-do-listsummerofmakingcode.tiiny.site)
 
 ## How to use 😃
 On the home page click on the text box write what you want and click add. Easy.
@@ -17,6 +19,14 @@ Adding an app you can download on your iPhone or Android Phone.
 Adding a login system to save your tasks across the cloud.
 
 Making it so the Web App tasks syncs across your network (Maybe).
+
+## GitHub Pages Setup 🌐
+To enable GitHub Pages for this repository:
+1. Go to your repository Settings
+2. Click on "Pages" in the left sidebar
+3. Under "Source", select the branch you want to use (usually `main` or `master`)
+4. Click Save
+5. Your site will be published at `https://glimmercharger.github.io/My-To-Do-List/`
 
 ## Thanks for reading,
 ## Will K 
