@@ -1,6 +1,6 @@
 ## My To Do List - Hack Club - Summer of code project.
 ## Hiya ✌
-I made a To do list that you can run from your browser to your phone just download the files off GitHub or visit the live site at: [glimmercharger.github.io/to-do-list](https://glimmercharger.github.io/my-to-do-list/) (Coming soon please use the other link for now!)
+I made a To do list that you can run from your browser to your phone just download the files off GitHub or visit the live site at: [glimmercharger.github.io/to-do-list](https://glimmercharger.github.io/My-To-Do-List/) (Coming soon please use the other link for now!)
 
 
 ## How to use 😃
